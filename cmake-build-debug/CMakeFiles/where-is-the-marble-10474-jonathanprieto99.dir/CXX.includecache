@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jonathanprieto/Documents/GitHub/where-is-the-marble-10474-jonathanprieto99/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+
